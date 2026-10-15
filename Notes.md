@@ -1,5 +1,5 @@
 
-# **My GitHub Notes**
+# *My GitHub Notes*
 
 ## What I learned
 
